@@ -1,4 +1,4 @@
-link: http://plakhoninreact.zzz.com.ua
+link: http://zolotyhin.zzz.com.ua/
 
 # Getting Started with Create React App
 
